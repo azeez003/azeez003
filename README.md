@@ -1,5 +1,5 @@
 <div class="profile-picture">
-  <p class="no-print" align="center"><img src="images/profile-picture-2.jpg"  height="200px"/></p>
+  <p class="no-print" align="center"><img src="IMG_E0153-01-02.jpeg"  height="200px"/></p>
   <div>
     <p align="center"><b>AZEEZ SHAIK</b></p>
     <p align="center" class="no-site"><i>Technology enthusiast and mad scientist</i></p>
@@ -93,7 +93,7 @@ My role with Rokt involves interesting challenges involving the secure transmiss
 Whatever the challenge, I enjoy sharing what I learn with colleagues, hosting presentations or writing internal articles.
 
 </br>
-<p align="center"><img src="images/go-presentation.jpg" width="700px"></p>
+<p align="center"><img src="IMG_20220504_141305-01.jpeg" width="700px"></p>
 <p align="center"><i>My personal philosophy is that it’s not a question of if you’re are capable of achieving something, <br>it’s a question of how long it'll take you to learn</i></p>
 </br>
 
@@ -308,7 +308,7 @@ We dive into software design concepts such as "Package Oriented Design", and tho
   ## Pay Later Travel
 
   <div class="heading">
-    <img align="right" class="header" src="images/plt-logo.png" width="100px" />
+    <img align="right" class="header" src="IMG_E0107-01.jpeg" width="100px" />
     <div class="details">
       <a href="https://paylatertravel.com.au/">paylatertravel.com.au</a><br>
       <span>Sydney, Australia</span><br>
